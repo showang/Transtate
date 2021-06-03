@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">example</string>
+
+    <string name="exampleItem_titleText">Item with ID: %1$s</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_itemList">ItemList</string>
+
+    <string name="btn_loadNewPageText">Load new page</string>
+    <string name="ass_add_item">Add new item on top</string>
+</resources>
